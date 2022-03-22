@@ -1,9 +1,12 @@
-#HEADER
+# HEADER
 
 Halloo
 
-##Subheader
+## Subheader
 
 Wie geht's??
-
 Pq no reconoce?
+
+## Local dev
+
+1. Check checkk
